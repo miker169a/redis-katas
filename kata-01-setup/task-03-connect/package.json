@@ -1,0 +1,20 @@
+{
+  "name": "task-03-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node validate_connection.ts"
+  },
+  "dependencies": {
+    "ioredis": "^5.3.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.7"
+  }
+}
